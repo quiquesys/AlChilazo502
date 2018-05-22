@@ -39,7 +39,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: #8EB4E3 !important;
 }
 
 .bg-dark {
@@ -91,7 +91,6 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   font-weight: 700;
-  text-transform: uppercase;
   color: #F05F40;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
@@ -309,4 +308,24 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+.Txt1p{
+	padding-top: 27em;
+	font-family:sans-serif;
+	size:40px;
+	color:White;
+	
+}
+
+.Section1 {
+  background-color: #FC774E !important;
+}
+
+.Section2 {
+  background-color: #8EB4E3 !important;
+}
+
+.Section3 {
+  background-color: #FFFFFF !important;
 }
